@@ -1,0 +1,7 @@
+Problem description here: https://gym.openai.com/envs/CartPole-v0
+
+The goal is to balance the pole on the cart using Reinforcement Learning (RL).
+
+Why use RL when it can be solved using simple PID control? Because we can.
+
+Still Work-in-progress. Average reward does not meet the problem's "solving criterion".
